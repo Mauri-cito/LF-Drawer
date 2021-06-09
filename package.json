@@ -2,8 +2,8 @@
   "name": "lf-drawer",
   "version": "1.0.0",
   "description": "Linear Functions Drawing Utility",
-  "main": "src/index.js",
   "scripts": {
+    "start": "nodemon server/index.js -e ejs,js,css,html,jpg,png,scss ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Mauri-cito/LF-Drawer/issues"
   },
-  "homepage": "https://github.com/Mauri-cito/LF-Drawer#readme"
+  "homepage": "https://github.com/Mauri-cito/LF-Drawer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
