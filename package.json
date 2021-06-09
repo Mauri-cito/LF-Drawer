@@ -1,0 +1,19 @@
+{
+  "name": "lf-drawer",
+  "version": "1.0.0",
+  "description": "Linear Functions Drawing Utility",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauri-cito/LF-Drawer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauri-cito/LF-Drawer/issues"
+  },
+  "homepage": "https://github.com/Mauri-cito/LF-Drawer#readme"
+}
